@@ -151,3 +151,9 @@ The system can track sales of sports tools made by employees and monitor the sup
 The system can generate various reports, such as class schedules, trainer assignments, membership statistics, and more, to help gym management make data-driven decisions.
 <hr>
 <h4>Overall, the Database-for-GYM-system serves as a powerful tool for gym administrators, trainers, and employees to effectively manage gym operations, enhance member experiences, and optimize the overall fitness center's performance. It facilitates data organization, accessibility, and analysis, contributing to the gym's success and growth.</h4>
+
+### created by a team of 2 students: 
+* Fares Ahmed
+* Eman Ragab
+
+
